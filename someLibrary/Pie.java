@@ -2,6 +2,5 @@ package someLibrary;
 
 public class Pie
 {
-	public int variable2 = 2;
-	
+	public double pienapple = Math.PI;
 }
